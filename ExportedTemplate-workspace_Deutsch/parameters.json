@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "datastores_azureml_globaldatasets_secretsType": {
+            "value": null
+        },
+        "datastores_workspaceartifactstore_secretsType": {
+            "value": null
+        },
+        "datastores_workspaceblobstore_secretsType": {
+            "value": null
+        },
+        "datastores_workspacefilestore_secretsType": {
+            "value": null
+        },
+        "datastores_workspaceworkingdirectory_secretsType": {
+            "value": null
+        },
+        "vaults_workshopharnis0519968885_name": {
+            "value": null
+        },
+        "components_workshopharnis4098487606_name": {
+            "value": null
+        },
+        "storageAccounts_workshopharnis4512763993_name": {
+            "value": null
+        },
+        "workspaces_Workshopharnisch1_name": {
+            "value": null
+        },
+        "workspaces_workshopharnis5427586279_name": {
+            "value": null
+        }
+    }
+}
