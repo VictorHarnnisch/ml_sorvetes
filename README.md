@@ -36,5 +36,6 @@ O principal objetivo é desenvolver um **modelo de regressão preditiva** capaz 
 5.  **Registro com MLflow:** Log de parâmetros, métricas e artefatos do modelo no Azure ML.
 6.  **Deploy (Implementação):** Publicação do modelo como um serviço web (endpoint) no Azure para consumo.
 7.  **Pipeline:** Criação de um fluxo automatizado no Azure ML para re-treinamento e avaliação contínua.
+8.  azureml:azureml_lucid_peach_vylqf9g1lz_5_output_mlflow_log_model_225599768:1
 
 
